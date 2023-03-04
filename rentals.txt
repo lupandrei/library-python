@@ -1,0 +1,35 @@
+1
+1
+1
+10/10/2005
+Cartea nu a fost returnata
+2
+1
+2
+10/10/2005
+Cartea nu a fost returnata
+3
+2
+3
+10/11/2006
+Cartea nu a fost returnata
+4
+1
+4
+10/11/2006
+Cartea nu a fost returnata
+5
+100
+5
+10/11/2006
+Cartea nu a fost returnata
+6
+100
+6
+10/11/2006
+Cartea nu a fost returnata
+7
+1
+7
+10/11/2006
+Cartea nu a fost returnata
